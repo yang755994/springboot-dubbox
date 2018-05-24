@@ -19,7 +19,7 @@ spring:
       max-request-size: 50Mb # Max request size. Values can use the suffixed "MB" or "KB" to indicate a Megabyte or Kilobyte size.
 
 server:
-  port: 8888
+  port: 8099
   tomcat:
     accesslog:
       debug: true #请求响应数据调试
