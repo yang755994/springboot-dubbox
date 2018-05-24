@@ -1,5 +1,6 @@
 spring:
   application:
     name: Platform Web Admin
+    #name: platformAdminWeb
   profiles:
     active: @profileActive@
